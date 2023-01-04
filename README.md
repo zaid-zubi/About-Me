@@ -1,8 +1,12 @@
-# About-Me
-Full-Stack web developer 
+# Hi 👋, I'm Zaid
+A passionate full-stack developer from Jordan
+- I’m currently learning FastAPI
 
-I am a full-stack web developer with experience in both front-end and back-end development. Master programming languages such as: Java, Python and PHP, I have experience in building effective applications, I am organized, self-learner and motivated, very excited to move forward in development, modernization and hard work to turn ideas into a beautiful reality.
-- Languages:  Java , Python , PHP and SQL.
-- Database: MySQL , Oracle, PostgreSQL.
-- Frameworks:  Spring boot, Laravel and FastAPI.
-- Frontend: JavaScript , HTML, CSS , Bootstrap.
+💬 Ask me about Java & python
+
+📫 How to reach me zaidalzubi3@gmail.com
+
+Languages and Tools:
+Java ,python, PHP ,Spring boot ,FastAPI,Laravel ,MySQL ,Oracle,PostgreSQL,HTML ,CSS ,JavaScript and Bootstrap
+
+Zaid AL-Zu'bi
