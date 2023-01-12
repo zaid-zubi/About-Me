@@ -7,7 +7,9 @@ A passionate full-stack developer from Jordan
 📫 How to reach me zaidalzubi3@gmail.com
 
 Programming languages: Python, Java, PHP, JavaScript, HTML5, and CSS3
+
 Frameworks: FastAPI, Spring, laravel
+
 Database: MySQL, PostgreSQL, and Oracle
 
 Zaid AL-Zu'bi
