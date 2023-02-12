@@ -1,5 +1,5 @@
 # Hi 👋, I'm Zaid
-A passionate full-stack developer from Jordan
+A passionate Software developer from Jordan
 - I’m currently learning FastAPI
 
 💬 Ask me about Java & python
