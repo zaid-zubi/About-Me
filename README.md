@@ -6,7 +6,7 @@ A passionate Software developer from Jordan
 
 📫 How to reach me zaidalzubi3@gmail.com
 
-Programming languages: Python, Java, PHP, JavaScript, HTML5, and CSS3
+Programming languages: Python, Java
 
 Frameworks: FastAPI, Spring, laravel
 
