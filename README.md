@@ -1,15 +1,27 @@
-# Hi 👋, I'm Zaid
-A passionate Software developer from Jordan
-- I’m currently learning FastAPI
+Hi 👋, I'm Zaid
 
-💬 Ask me about Java & python
+Software Engineer from Jordan 🇯🇴
 
-📫 How to reach me zaidalzubi3@gmail.com
+I’m a backend-focused developer passionate about building scalable, high-performance web applications and APIs. I enjoy working on system design, clean architecture, and solving complex backend problems.
 
-Programming languages: Python, Java
+🔭 Currently working with FastAPI & Django
+🧠 Focused on backend systems, distributed architecture, and API design
+🌱 Interested in system design, AI integrations, and cloud-native applications
+📫 Reach me at: zaidalzubi3@gmail.com
+🛠️ Tech Stack
 
-Frameworks: FastAPI, Spring, laravel
+Languages: Python, Java, PHP, JavaScript, SQL
 
-Database: MySQL, PostgreSQL, and Oracle
+Backend Frameworks: Django, FastAPI, Spring Boot, Laravel
 
-Zaid AL-Zu'bi
+Databases: PostgreSQL, MySQL, Oracle, Redis, MongoDB
+
+APIs & Architecture: REST, GraphQL, Microservices, MVC, OOP, Design Patterns
+
+DevOps & Tools: Git, Docker, Docker Compose, Linux, CI/CD basics
+
+Testing & Quality: Unit Testing, PyTest, Debugging, Code Optimization
+
+Other: Authentication (JWT, OAuth basics), Web Security fundamentals
+
+Zaid Al-Zu’bi
